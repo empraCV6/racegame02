@@ -3,6 +3,8 @@
 C++ / SFML を用いて制作した個人ゲームプロジェクトです。
 SFMLを用いた初めての製作物です。
 シーン管理・状態遷移・入力処理などを自作実装しています。
+こちらにYoutubeで公開しているプレイ映像のURLを貼っておきます。
+https://www.youtube.com/watch?v=wcJpITbZR6Q
 
 ## 製作目的
 
